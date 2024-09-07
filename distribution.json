@@ -11,7 +11,7 @@
       "id": "hxxstella-1.20.1",
       "name": "호백타운",
       "description": "hxxstella Running Minecraft 1.20.1 (Forge v47.2.18)",
-      "icon": "https://github.com/HXXSTELLA/hxxstella/raw/main/server-icon.png",
+      "icon": "https://github.com/HXXSTELLA/hxxstella_file/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "hxxstella.co.kr",
       "minecraftVersion": "1.20.1",
