@@ -190,7 +190,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 16024,
+            "size": 16015,
             "url": "https://raw.githubusercontent.com/HXXSTELLA/hxxstella_file/main/servers/hxxstella-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
