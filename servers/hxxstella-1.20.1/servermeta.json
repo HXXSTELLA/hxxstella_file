@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "호백타운 (스트리머서버)",
-    "description": "hxxstella Running Minecraft 1.20.1 (Forge v47.2.18)",
+    "description": "호백타운",
     "icon": "https://github.com/HXXSTELLA/hxxstella_file/raw/main/server-icon.png",
     "address": "hxxstella.co.kr",
     "discord": {
