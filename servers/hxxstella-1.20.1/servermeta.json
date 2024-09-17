@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "servers.dat", "resourcepacks/*.zip", "shaderpacks/*.zip", "shaderpacks/*.txt"]
+      "patterns": ["options.txt", "resourcepacks/*.zip", "shaderpacks/*.zip", "shaderpacks/*.txt"]
     }
   ]
 }
